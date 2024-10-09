@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v2.1.0...v2.1.1) (2024-10-09)
+
+
+### Bug Fixes
+
+* 123 ([0309168](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/030916875b42aa4bba1a14bbcaadc87fad5316f0))
+
 # [2.1.0](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v2.0.0...v2.1.0) (2024-10-09)
 
 
