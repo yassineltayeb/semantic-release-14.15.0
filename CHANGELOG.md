@@ -1,0 +1,13 @@
+# 1.0.0 (2024-10-09)
+
+
+### Bug Fixes
+
+* added change log file and changelog package ([0068af0](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/0068af03dbc4509e8b05f27e8da46b3d2378b24e))
+* changed branch name ([1b1c742](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/1b1c7428ca97ee1c14271e9544941e59f201c600))
+* changed semantic version ([d07c3b8](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/d07c3b8143295ef295ec52c18d4359b9c0245fc9))
+
+
+### Features
+
+* initial setup with semantic-release v18 ([72ccff4](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/72ccff44255090805f0a81621121eb0105628bd8))
