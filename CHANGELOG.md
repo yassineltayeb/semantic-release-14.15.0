@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v2.0.0...v2.1.0) (2024-10-09)
+
+
+### Features
+
+* changed file log ([e189fcc](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/e189fccf8281c67c49823bba9126b0e5ecf6f7c8))
+
 # [2.0.0](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v1.1.0...v2.0.0) (2024-10-09)
 
 
