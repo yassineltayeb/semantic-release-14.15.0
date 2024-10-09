@@ -19,6 +19,7 @@
   "homepage": "https://github.com/yassineltayeb/semantic-release-14.15.0#readme",
   "dependencies": {},
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^8.0.0",
     "@semantic-release/github": "^7.2.3",
     "@semantic-release/npm": "^7.1.3",
