@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v1.1.0...v2.0.0) (2024-10-09)
+
+
+### Features
+
+* breaking change ([220e177](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/220e177f360a9c0312f9a88674b6739943b2ee97))
+
+
+### BREAKING CHANGES
+
+* The authentication API has changed. The old API will no longer work."
+
 # [1.1.0](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v1.0.1...v1.1.0) (2024-10-09)
 
 
