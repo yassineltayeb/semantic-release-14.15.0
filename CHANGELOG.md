@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/yassineltayeb/semantic-release-14.15.0/compare/v1.0.0...v1.0.1) (2024-10-09)
+
+
+### Bug Fixes
+
+* removed github and npm validation ([1c65b62](https://github.com/yassineltayeb/semantic-release-14.15.0/commit/1c65b62d58821548e8e43a96d9cd0177f2a0dac1))
+
 # 1.0.0 (2024-10-09)
 
 
